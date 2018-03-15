@@ -1,0 +1,25 @@
+<mvc:View
+	controllerName="energymeterreading.test.controller.Master"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:core="sap.ui.core"
+	xmlns="sap.m"
+	xmlns:semantic="sap.m.semantic">
+
+	<SegmentedButton class= "XYZ">
+		
+					<items>
+					
+						<SegmentedButtonItem text="Status" width="100%"/>
+						
+						<SegmentedButtonItem text="Previous Months" width="100%"/>
+						
+						<SegmentedButtonItem text="Predective Analysis" width="100%"/>
+						
+						<SegmentedButtonItem text="Invoice List" width="100%"/>
+						
+						<SegmentedButtonItem text="Billing" width="100%"/>
+					
+					</items>
+				</SegmentedButton>
+
+</mvc:View>

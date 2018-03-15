@@ -1,0 +1,14 @@
+.XYZ
+{
+	display: grid !important;
+	width:100% !important;
+	height: 4.625rem !important;
+	line-height: 4.5rem !important
+
+}
+
+.sapUiSizeCompact .sapMSegBBtn
+{
+	height: 4.625rem !important;
+	line-height: 4.5rem !important
+}
